@@ -1,3 +1,3 @@
 # DeltaHacks
 An app for deltahacks
-Requires the pip installation of tkintermapview
+#Requires the pip installation of tkintermapview
